@@ -1,11 +1,11 @@
-### Hi there I'm Nuno👋
+### Hi there I'm CaoKy👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nunolima10&label=Profile%20views&color=0eb421&style=flat" alt="nunolima10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caokynguyen1704&label=Profile%20views&color=0eb421&style=flat" alt="caokynguyen1704" /> </p>
 
 
 <div>
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=NunoLima10&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
-<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoLima10&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=caokynguyen1704&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokynguyen1704&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
  </div>
 
 <h3 align="left">Languages and Tools:</h3>
