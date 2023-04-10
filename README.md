@@ -7,7 +7,8 @@
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=caokynguyen1704&hide_title=true&show_icons=true&theme=dark" alt="Nuno Lima" />
 <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caokynguyen1704&langs_count=10&hide_title=false&layout=compact&theme=dark&count_private=true&hide=css,html" />
  </div>
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<a href="https://your-link-here.com"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
