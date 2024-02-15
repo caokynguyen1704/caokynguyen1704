@@ -1,5 +1,9 @@
 ### Hi there I'm CaoKy👋
-
+<h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there,+I'm+Cao+Kỳ+👋🏻;I'm+a+Software+Engineer+👨‍💻;I'm+a+Game+Developer+🧑‍🏫;I'm+a+Fullstack+Developer+🚩" alt="melvincwng's banner" />
+  </a>
+</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caokynguyen1704&label=Profile%20views&color=0eb421&style=flat" alt="caokynguyen1704" /> </p>
 
 
